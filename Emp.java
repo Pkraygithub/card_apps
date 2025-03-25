@@ -1,8 +1,19 @@
 public Class{
 
-    void m1(){
+    
+   public  void m1(){
 
-        
+       
+    }
+
+
+    //task -320
+    void m11(){
+
+        int a=2;
+        int b=33;
+        int d=a+b;
+        //Now Completed m1
     }
 
     //Task 321
