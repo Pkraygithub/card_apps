@@ -24,5 +24,13 @@ public Class{
         //Complete Process
 
     }
+
+    //Task 325
+    public void m1(){
+        int a=98;
+        
+
+    }
+
 }
 
