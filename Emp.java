@@ -24,8 +24,7 @@ public Class{
     public void m1(){
         String str ="Pankaj Kumar";
 
-        System.out.println("This is Git Revert");  
- 
+        System.out.println("This is Git Revert");
         
 
     }
