@@ -21,5 +21,16 @@ public Class{
 
     }
 
+
+     //Task 326
+     public void m11(){
+        int a=98;
+        String str= "Pankaj Kumar";
+        
+        
+
+    }
+
+
 }
 
